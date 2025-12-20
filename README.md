@@ -3,7 +3,9 @@
 
 ---
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=black&height=200&section=header&text=Yopo%20Design&fontSize=70" />
+  <a href="https://github.com/LLllCCC">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2997FF&center=true&vCenter=true&width=435&lines=你好，我是+Yopo;创意无限，代码不止;专注于+Web+前端与+Docker+实战" alt="Typing SVG" />
+  </a>
 </p>
 
 ### 🛠️ 技术雷达
