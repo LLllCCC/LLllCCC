@@ -8,6 +8,14 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LLllCCC&theme=tokyonight&area=true" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LLllCCC/LLllCCC/output/github-contribution-grid-snake.svg" alt="Snake" />
+</p>
+
 ### 🛠️ 技术雷达
 - **前端开发**: HTML5, CSS3 (Apple Style Design), JavaScript
 - **容器技术**: Docker (部署过音乐服务器)
