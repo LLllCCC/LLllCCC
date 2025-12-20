@@ -1,6 +1,7 @@
 # 🚀 你好，我是 Yopo !
 > 一名热爱 Web 开发与容器化技术的探索者。
 
+---
 <p align="center">
   <img src="https://capsule-render.vercel.app/render?type=waving&color=black&height=200&section=header&text=Yopo%20Design&fontSize=70" />
 </p>
