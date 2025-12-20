@@ -2,7 +2,7 @@
 > 一名热爱 Web 开发与容器化技术的探索者。
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=000000&height=200&section=header&text=Yopo%20Design&fontSize=70" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=2997ff&height=200&section=header&text=Yopo%20Design&fontSize=70" width="100%" />
 </p>
 
 ### 🛠️ 技术雷达
